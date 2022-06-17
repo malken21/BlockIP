@@ -1,0 +1,2 @@
+# Minecraft_Block_IP_spigot
+同じIPからは1人しかログインできないようにするSpigotプラグイン
