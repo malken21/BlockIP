@@ -1,0 +1,4 @@
+name: Block_ip
+version: '${version}'
+main: marumasa.block_ip.minecraft
+api-version: 1.16
